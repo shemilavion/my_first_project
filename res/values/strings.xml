@@ -4,6 +4,8 @@
     <string name="edit_message">Enter A Message</string>
     <string name="button_send">Send</string>
     <string name="menu_settings">Settings</string>
-    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_main">Shimon Lavion first App</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_display_message">sent message</string>
 
 </resources>
